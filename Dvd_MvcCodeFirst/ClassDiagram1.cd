@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dvd_MvcCodeFirst.Models.Topico">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAABAAAAAAAAAACAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Models\Topico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dvd_MvcCodeFirst.Models.Professor">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAgCAAAAAQAAAAAQAAAAQAAAAAAAAAAIEBAAA=</HashCode>
+      <FileName>Models\Professor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dvd_MvcCodeFirst.Models.Aluno">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAIACCAAABAAAAAAAACAAAAAAAAAAAwAAAAAAAA=</HashCode>
+      <FileName>Models\Aluno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dvd_MvcCodeFirst.Models.BancoContexto" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Models\BancoContexto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
