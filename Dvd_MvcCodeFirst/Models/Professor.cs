@@ -30,7 +30,7 @@ namespace Dvd_MvcCodeFirst.Models
 
         public bool Disponivel { get; set; }
 
-        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy")]
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
         public DateTime? Admisao { get; set; }
 
         //cahve estrangeira
